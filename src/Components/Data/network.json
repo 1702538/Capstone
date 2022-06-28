@@ -1,0 +1,9 @@
+[
+  {
+    "ssid": "Aegis Research",
+    "status": "Online",
+    "default_gateway": "192.168.1.1",
+    "volume_in": "10 B",
+    "volume_out": "20 B"
+  }
+]

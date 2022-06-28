@@ -1,0 +1,362 @@
+[
+  {
+    "timestamp": 1650872896711,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1650335482315,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1650248110567,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1650246826433,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1649899829944,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1649823288600,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1649823231397,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1649823177374,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1649823095468,
+    "source": "10.0.0.1",
+    "destination": "192.168.2.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1649822951614,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1649727461817,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1649396276694,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1649387819883,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1649321014789,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1649313105132,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1649209131827,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1649209094585,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1649044505647,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648785376107,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648785198623,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1648692141753,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1648460440971,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1648460373970,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1648459854944,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648459832880,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648459585312,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648459199451,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1648459172784,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1648459135633,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name A"
+  },
+  {
+    "timestamp": 1648459117225,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category A",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648459099370,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1648459050031,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648457160603,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name B"
+  },
+  {
+    "timestamp": 1648456913559,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category C",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1648456869765,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Category B",
+    "threat_name": "Threat Name C"
+  },
+  {
+    "timestamp": 1639595770,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Policy Violation",
+    "threat_name": "Insecure protocol (plain-text)"
+  },
+  {
+    "timestamp": 1640033990,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Policy Violation",
+    "threat_name": "Insecure protocol (plain-text)"
+  },
+  {
+    "timestamp": 1635513531,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Policy Violation",
+    "threat_name": "Insecure protocol (plain-text)"
+  },
+  {
+    "timestamp": 1643447576,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Policy Violation",
+    "threat_name": "Insecure protocol (plain-text)"
+  },
+  {
+    "timestamp": 1642338731,
+    "source": "10.0.0.1",
+    "destination": "192.168.1.1",
+    "protocol": "TCP",
+    "application": "Remote/MSRDP/SSL",
+    "threat_category": "Policy Violation",
+    "threat_name": "Insecure protocol (plain-text)"
+  }
+]

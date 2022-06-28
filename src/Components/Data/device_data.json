@@ -1,0 +1,74 @@
+[
+  {
+    "id": "192.168.1.1",
+    "name": "Router-01",
+    "type": "Router",
+    "status": "Active",
+    "os": "Linux",
+    "mac_addr": "00:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  },
+  {
+    "id": "192.168.2.1",
+    "name": "Router-02",
+    "type": "Router",
+    "status": "Active",
+    "os": "Linux",
+    "mac_addr": "11:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  },
+  {
+    "id": "192.168.1.101",
+    "name": "PC-101",
+    "type": "PC",
+    "status": "Active",
+    "os": "Linux",
+    "mac_addr": "11:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  },
+  {
+    "id": "192.168.1.102",
+    "name": "PC-102",
+    "type": "PC",
+    "status": "Active",
+    "os": "Linux",
+    "mac_addr": "11:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  },
+  {
+    "id": "192.168.2.101",
+    "name": "PC-201",
+    "type": "PC",
+    "status": "Offline",
+    "os": "Linux",
+    "mac_addr": "11:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  },
+  {
+    "id": "192.168.2.102",
+    "name": "PC-202",
+    "type": "PC",
+    "status": "Inactive",
+    "os": "Linux",
+    "mac_addr": "11:00:00:00:00:00",
+    "subnet": "255.255.255.0",
+    "gateway": "192.168.1.1",
+    "ownership": "Corporate",
+    "connected_since": "1604095567183"
+  }
+]
