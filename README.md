@@ -1,4 +1,9 @@
-To run the project, run the following command in Terminal:
+## CSC3001 Capstone Project
+
+**Student Name:** Keith Chong Zhihan \
+**Admin No:** 1702538
+
+#### To run the project, run the following command in Terminal:
 
 ### `npm start`
 
